@@ -531,6 +531,8 @@ button {
 
 .about-img .img-box img {
   width: 100%;
+  border: 1px solid var(--white-alpha-40);   /*ADD NEW */
+  border-radius: 10px;/*ADD NEW */
 }
 
 .about-text h3 {
